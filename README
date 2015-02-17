@@ -1,1 +1,9 @@
 This is a twitter bot that will pick a random verb, noun, and adjective and put it into a sentence and tweet it out.
+
+Put templates, such as "Tom, why did you _V_ that _A_ _N_?!" (omit the quotes) in templates.txt. Place adjectives, nouns, and verbs in their respective files. Examples are provided.
+
+Edit twitterbot.py and add your keys.
+
+Run python ./twitterbot.py in the directory.
+
+This code runs @tom_paulus_bot.
